@@ -6,3 +6,4 @@ from main branch 5
 from main branch 6
 
 feature 1
+from main 7
